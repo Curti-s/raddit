@@ -1,0 +1,6 @@
+== README
+
+1. As a user, I want to be able to sign in  and out.
+2. As a signed in user, I want to be able to submit a link with a title and url..
+3. As a user, I want to be able to vote up or down in an application as well as comments
+   on links and submissions.
